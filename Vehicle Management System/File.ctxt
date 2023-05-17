@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=File
+comment1.params=
+comment1.target=void\ readFromFile()
+comment2.params=
+comment2.target=Vehicable[]\ getArray()
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=arrVehicle\ count
+comment4.target=void\ writeToBinFile(Vehicable[],\ int)
+comment5.params=count
+comment5.target=void\ readFromBinFile(int)
+numComments=6

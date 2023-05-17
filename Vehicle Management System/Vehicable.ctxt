@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Vehicable
+comment1.params=
+comment1.target=double\ calcRange()
+comment2.params=unitPrice
+comment2.target=double\ calcKilometerCost(double)
+comment3.params=
+comment3.target=double\ calcIncentive()
+comment4.params=
+comment4.target=double\ calcFine()
+numComments=5
