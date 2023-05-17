@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ElectricVehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BEV\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ElectricVehicle()
+comment2.params=manufacturer\ price\ batterySize\ eConsumption
+comment2.target=ElectricVehicle(java.lang.String,\ double,\ double,\ double)
+comment3.params=
+comment3.target=double\ getBattery()
+comment4.params=
+comment4.target=double\ getConsumption()
+comment5.params=
+comment5.target=double\ calcRange()
+comment6.params=unitPrice
+comment6.target=double\ calcKilometerCost(double)
+comment7.params=
+comment7.target=double\ calcIncentive()
+comment8.params=
+comment8.target=double\ calcFine()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
